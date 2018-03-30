@@ -9,7 +9,7 @@
 # 个人信息
 
  - 闫业伟/男/1990 
- - 本科/江西科技学院 
+ - 专科/江西科技学院 
  - 工作年限：3年
  - 技术博客：https://www.jianshu.com/u/035d7ce6a05f ( ``` 简书 ```  )
  - Github：https://github.com/ywyan
